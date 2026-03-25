@@ -41,4 +41,4 @@ Everyday Functioning Prompts:
 
   OUTPUT:
 
-  RESULT:
+  RESULT:Different prompt types help in understanding information in different ways. Comparative prompts help analyze differences, experiential prompts explain ideas from a user’s perspective, and everyday functioning prompts show how technology is used in daily life.
